@@ -1,0 +1,177 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.head{
+	background-color: #000;
+	width: 100%;
+	height: 200px;
+}
+.menu{
+	background: #e07a2c; /* Old browsers */
+background: -moz-linear-gradient(top, #e07a2c 0%, #e2a22b 51%, #f4d384 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #e07a2c 0%,#e2a22b 51%,#f4d384 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #e07a2c 0%,#e2a22b 51%,#f4d384 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e07a2c', endColorstr='#f4d384',GradientType=0 );
+width: 100%;
+height: 40px;
+}
+
+.icerik{
+	background-color: #000;
+	height: 700px;
+	width: 100%;
+}
+.foot{
+	background: #e07a2c; /* Old browsers */
+background: -moz-linear-gradient(top, #e07a2c 0%, #e2a22b 51%, #f4d384 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #e07a2c 0%,#e2a22b 51%,#f4d384 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #e07a2c 0%,#e2a22b 51%,#f4d384 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e07a2c', endColorstr='#f4d384',GradientType=0 );
+width: 100%;
+height: 40px;
+}
+.menu a{
+	padding: 0px 31px;
+	top: 9px;
+    position: relative;
+    color: #fff;
+}
+.arama{
+
+	float: right;
+}
+.arama a{
+	    background-color: #000;
+    color: #fff;
+    padding: 3px 14px;
+    right: 40px;
+        top: 0px;
+}
+.arama input{
+	height: 25px;
+    margin-right: 37px;
+    margin-top: 8px;
+}
+.baslik-konu{
+	
+	width: 100%;
+	
+	padding:10px;
+}
+.asd{
+    background-color: #fff;
+    padding: 10px;
+    margin-left: 10px;width: 70%;
+}
+.reklam-baslik{
+   background-color: #00468C;
+   color: #fff;
+    /* padding: 10px; */
+    /* margin-left: 10px; */
+    float: right;
+    margin-right: 50px;
+    margin-top: -39px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.logo{
+	padding-top: 49px;
+}
+.ata{
+	    float: right;
+    margin-top: -115px;
+}
+.icer{
+	    margin-top: 10px;
+    position: relative;
+    background-color: #fff;
+    margin-left: 10px;
+    width: 70%;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.dsa{
+	width: 100%;
+	height: 250px;
+	background-color: #8A8A7B;
+}
+.dsa-baslik{
+	width: 97.8%;
+	background-color: #353526;
+	padding: 10px;
+}
+.dsa-acik{
+	width: 65%;
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px;
+    height: 170px;
+}
+.dsa-resim{
+	width: 23%;
+    background-color: #fff;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+    margin-top: -200px;
+    height: 170px;
+}
+.kategori{
+	margin-top: -643px;
+    position: relative;
+    background-color: #fff;
+    margin-right: 42px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 15px;
+    float: right;
+}
+.kategori-baslik{
+	width: 91.8%;
+	background-color: #353526;
+	padding: 10px;
+}
+.kategori-menu{
+	width: 91.8%;
+    background-color: #FF960B;
+    padding: 3px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+.en{
+	margin-top: -430px;
+    position: relative;
+    background-color: #fff;
+    margin-right: 42px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 15px;
+    float: right;
+}
+.en-baslik{
+	width: 91.8%;
+	background-color: #353526;
+	padding: 10px;
+}
+.en-menu{
+	width: 91.8%;
+    background-color: #FF960B;
+    padding: 3px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
+.site-map{
+	position: absolute;
+    margin-top: -190px;
+    float: right;
+    margin-left: 1071px;
+    cursor: pointer;
+}

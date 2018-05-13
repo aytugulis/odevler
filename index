@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tarih Kırıntıları</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="head"><div class="logo"></div></div>
+<div class="menu"></div>
+<div class="icerik"></div>
+<div class="foot"></div>
+</body>
+</html>
